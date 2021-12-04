@@ -34,6 +34,8 @@ Group, P. (2007). MIP: A method for identifying metaphorically used words in dis
 
 Pérez-Sobrino, P. (2016). Multimodal metaphor and metonymy in advertising: A corpus-based account. *Metaphor and symbol*, *31*(2), 73-90.
 
+Sharifian, F. (Ed.). (2017). *Advances in cultural linguistics*. Singapore: Springer.
+
 Ungerer, F., & Schmid, H. J. (2013). *An introduction to cognitive linguistics*. Routledge.
 
 王寅. (2007). 汉语 “动名构造” 与英语 “VN 构造” 的对比——一项基于语料库 “吃/eat 构造” 的对比研究[J]. *外语教学*, *28*(2), 1-6.
