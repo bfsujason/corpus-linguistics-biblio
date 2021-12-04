@@ -8,7 +8,7 @@ Baker, P., Gabrielatos, C., & McEnery, T. (2013). Sketching Muslims: A corpus dr
 
 Bednarek, M., & Caple, H. (2017). *The discourse of news values: How news organizations create newsworthiness*[M].Oxford University Press.
 
-Caple, H., Huan, C., & Bednarek, M. (2020). *Multimodal News Analysis across Cultures*. Cambridge University Press.
+Caple, H., Huan, C., & Bednarek, M. (2020). *Multimodal News Analysis across Cultures*[M]. Cambridge University Press.
 
 Kress, G., & Van Leeuwen, T. (2020). *Reading images: The grammar of visual design*[M]. Routledge.
 
