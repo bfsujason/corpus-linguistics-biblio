@@ -10,6 +10,8 @@ Bednarek, M., & Caple, H. (2017). *The discourse of news values: How news organi
 
 Caple, H., Huan, C., & Bednarek, M. (2020). *Multimodal News Analysis across Cultures*[M]. Cambridge University Press.
 
+Flowerdew, J., & Richardson, J. E. (Eds.). (2017). *The Routledge handbook of critical discourse studies*[M]. Taylor & Francis.
+
 Kress, G., & Van Leeuwen, T. (2020). *Reading images: The grammar of visual design*[M]. Routledge.
 
 Van Leeuwen, T. (2008). *Discourse and practice: New tools for critical discourse analysis*[M]. Oxford university press.
