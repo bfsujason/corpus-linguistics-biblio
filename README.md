@@ -60,7 +60,6 @@ Kyle, K., Crossley, S., & Berger, C. (2018). The tool for the automatic analysis
 
 徐雪英, & 张菁. (2020). 从金庸《 射雕英雄传》 英译看中国文化如何走向世界[J]. *浙江学刊*, (3), 42-53.
 
+Batchelor, K. (2018). *Translation and paratexts*[M]. Routledge.
+
 Wu, Y. (2020). Globalization, Science Fiction and the China Story: Translation, Dissemination and Reception of Liu Cixin’s Works across the Globe[J]. *Critical Arts*, *34*(6), 56-70.
-
-## 
-
