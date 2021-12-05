@@ -14,6 +14,8 @@ Flowerdew, J., & Richardson, J. E. (Eds.). (2017). *The Routledge handbook of cr
 
 Kress, G., & Van Leeuwen, T. (2020). *Reading images: The grammar of visual design*[M]. Routledge.
 
+McEnery, A., & Baker, P. (Eds.). (2015). *Corpora and discourse studies: Integrating discourse and corpora*[M]. Springer.
+
 Van Leeuwen, T. (2008). *Discourse and practice: New tools for critical discourse analysis*[M]. Oxford university press.
 
 Wang, J. (2018). “Lifeworld” representation of political measures in president Xi Jinping’s discourse[J]. *Poznan Studies in Contemporary Linguistics*, *54*(3), 407-429.
