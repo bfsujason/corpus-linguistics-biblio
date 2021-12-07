@@ -67,3 +67,5 @@ Pérez-Sobrino, P. (2016). Multimodal metaphor and metonymy in advertising: A co
 Sharifian, F. (Ed.). (2017). *Advances in cultural linguistics*[M]. Singapore: Springer.
 
 Ungerer, F., & Schmid, H. J. (2013). *An introduction to cognitive linguistics*[M]. Routledge.
+
+Wang, Y. (2021). The Metaphors and Its Critical Analysis in COVID-19-Related Cartoons. *Open Journal of Modern Linguistics*, *11*(4), 539-554.
