@@ -8,6 +8,8 @@ Baker, P., Gabrielatos, C., & McEnery, T. (2013). Sketching Muslims: A corpus dr
 
 Bednarek, M., & Caple, H. (2017). *The discourse of news values: How news organizations create newsworthiness*[M].Oxford University Press.
 
+Butler, M., Farzin, S., & Fuchs, M. (2021). PandemIcons? The Medical Scientist as Iconic Figure in Times of Crisis[J]. *Configurations*, *29*(4), 435-451.
+
 Caple, H., Huan, C., & Bednarek, M. (2020). *Multimodal News Analysis across Cultures*[M]. Cambridge University Press.
 
 Flowerdew, J., & Richardson, J. E. (Eds.). (2017). *The Routledge handbook of critical discourse studies*[M]. Taylor & Francis.
