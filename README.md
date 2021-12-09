@@ -34,6 +34,8 @@ Zhang, L., & Caple, H. (2021). The newsworthiness of Li Na—A critical comparat
 
 Batchelor, K. (2018). *Translation and paratexts*[M]. Routledge.
 
+Cao, X. (2019). The Multiple Bodies of The Three-Body Problem[J]. *Extrapolation.*, *60*(2), 183-200.
+
 Hang, Y. U. (2020). An Analysis of the Reconstruction of Chinese American Identity in The Paper Menagerie[J]. *Journal of Literature and Art Studies*, *10*(9), 790-795.
 
 Liu, K. (2019). Ken Liu and Nick Admussen: the full conversation.
