@@ -10,6 +10,10 @@ Butler, M., Farzin, S., & Fuchs, M. (2021). PandemIcons? The Medical Scientist a
 
 Caple, H., Huan, C., & Bednarek, M. (2020). *Multimodal News Analysis across Cultures*[M]. Cambridge University Press.
 
+Curry, N., & Pérez-Paredes, P. (2021). Stance nouns in COVID-19 related blog posts: A contrastive analysis of blog posts published in The Conversation in Spain and the UK[J]. *International Journal of Corpus Linguistics*, *26*(4), 469-497.
+
+Dong, J., Buckingham, L., & Wu, H. (2021). A discourse dynamics exploration of attitudinal responses towards COVID-19 in academia and media[J]. *International Journal of Corpus Linguistics*, *26*(4), 532-556.
+
 Fellow, A.-R. (2009). *American Media History*[M]. Wadsworth, Cengage Learning.
 
 Flowerdew, J., & Richardson, J. E. (Eds.). (2017). *The Routledge handbook of critical discourse studies*[M]. Taylor & Francis.
@@ -19,6 +23,8 @@ Jutel, O. (2016). The liberal field of journalism and the political–The New Yo
 Kress, G., & Van Leeuwen, T. (2020). *Reading images: The grammar of visual design*[M]. Routledge.
 
 McEnery, A., & Baker, P. (Eds.). (2015). *Corpora and discourse studies: Integrating discourse and corpora*[M]. Springer.
+
+Müller, M., Bartsch, S., & Zinn, J. O. (2021). Communicating the unknown: An interdisciplinary annotation study of uncertainty in the coronavirus pandemic[J]. *International Journal of Corpus Linguistics*, *26*(4), 498-531.
 
 Van Leeuwen, T. (2008). *Discourse and practice: New tools for critical discourse analysis*[M]. Oxford university press.
 
