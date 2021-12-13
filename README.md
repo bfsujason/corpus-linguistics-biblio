@@ -36,17 +36,23 @@ Batchelor, K. (2018). *Translation and paratexts*[M]. Routledge.
 
 Cao, X. (2019). The Multiple Bodies of The Three-Body Problem[J]. *Extrapolation.*, *60*(2), 183-200.
 
+Dougherty, S. (2019). Liu Cixin, Arthur C. Clarke, and “Repositioning”[J]. *Science Fiction Studies*, *46*(1), 39-62.
+
+Gaffric, G., & Peyton, W. (2019). Liu Cixin's Three-Body Trilogy and the Status of Science Fiction in Contemporary China[J]. *Science Fiction Studies*, *46*(1), 21-38.
+
 Hang, Y. U. (2020). An Analysis of the Reconstruction of Chinese American Identity in The Paper Menagerie[J]. *Journal of Literature and Art Studies*, *10*(9), 790-795.
 
 Liu, K. (2019). Ken Liu and Nick Admussen: the full conversation.
 
 Pellatt, V. (Ed.). (2014). *Text, extratext, metatext and paratext in translation*[M]. Cambridge Scholars Publishing.
 
-Lavid-López, J., Maíz-Arévalo, C., & Zamorano-Mansilla, J. R. (Eds.). (2021). *Corpora in Translation and Contrastive Research in the Digital Age: Recent advances and exploration*[M]. Guildford: University of Surrey.
+~~Lavid-López, J., Maíz-Arévalo, C., & Zamorano-Mansilla, J. R. (Eds.). (2021). *Corpora in Translation and Contrastive Research in the Digital Age: Recent advances and exploration*[M]. Guildford: University of Surrey.~~
 
 Shangzhen, L. (2021). An Analysis of In-text Thick Translation Strategies in the English Translation of The Three-body Problem[J]. *Frontiers in Educational Research*, *4*(6).
 
 Wu, Y. (2020). Globalization, Science Fiction and the China Story: Translation, Dissemination and Reception of Liu Cixin’s Works across the Globe[J]. *Critical Arts*, *34*(6), 56-70.
+
+Guangyi, L., & Isaacson, N. (2019). China Turns Outward: On the Literary Significance of Liu Cixin's Science Fiction[J]. *Science Fiction Studies*, *46*(1), 1-20.
 
 李晓倩, & 胡开宝. (2020).《习近平谈治国理政》多语平行语料库的建设与应用[J]. *外语电化教学*, (3), 83-88.
 
