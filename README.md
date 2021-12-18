@@ -38,13 +38,23 @@ Zhang, L., & Caple, H. (2021). The newsworthiness of Li Na—A critical comparat
 
 ### Corpus-Based Translation Studies
 
+Baker, M. (2018). *In other words: A coursebook on translation*[M]. Routledge.
+
 Batchelor, K. (2018). *Translation and paratexts*[M]. Routledge.
 
 Cao, X. (2019). The Multiple Bodies of The Three-Body Problem[J]. *Extrapolation.*, *60*(2), 183-200.
 
+Davies, E. E. (2003). A goblin or a dirty nose? The treatment of culture-specific references in translations of the Harry Potter books[J]. *The Translator*, *9*(1), 65-100.
+
+Dickins, J. (2005). Two models for metaphor translation[J]. *Pragmatics*, *24*, 595-604.
+
 Dougherty, S. (2019). Liu Cixin, Arthur C. Clarke, and “Repositioning”[J]. *Science Fiction Studies*, *46*(1), 39-62.
 
+Fernando, C. (1978). Towards a Definition of Idiom its Nature and Function[J]. *Studies in Language*,  *2*(3), 313-343.
+
 Gaffric, G., & Peyton, W. (2019). Liu Cixin's Three-Body Trilogy and the Status of Science Fiction in Contemporary China[J]. *Science Fiction Studies*, *46*(1), 21-38.
+
+Glucksberg, S., & McGlone, M. S. (2001). *Understanding figurative language: From metaphor to idioms* (No. 36)[M]. Oxford University Press on Demand.
 
 Hang, Y. U. (2020). An Analysis of the Reconstruction of Chinese American Identity in The Paper Menagerie[J]. *Journal of Literature and Art Studies*, *10*(9), 790-795.
 
@@ -54,7 +64,11 @@ Pellatt, V. (Ed.). (2014). *Text, extratext, metatext and paratext in translatio
 
 ~~Lavid-López, J., Maíz-Arévalo, C., & Zamorano-Mansilla, J. R. (Eds.). (2021). *Corpora in Translation and Contrastive Research in the Digital Age: Recent advances and exploration*[M]. Guildford: University of Surrey.~~
 
+Saeed, A. T. (2017). Impact of mother culture on the process of translating culture-specific idioms[J]. *Babel*, *63*(4), 486-505.
+
 Shangzhen, L. (2021). An Analysis of In-text Thick Translation Strategies in the English Translation of The Three-body Problem[J]. *Frontiers in Educational Research*, *4*(6).
+
+Toury, G. (1995). *Descriptive translation studies and beyond* (Vol. 4)[M]. Amsterdam: J. Benjamins.
 
 Wu, Y. (2020). Globalization, Science Fiction and the China Story: Translation, Dissemination and Reception of Liu Cixin’s Works across the Globe[J]. *Critical Arts*, *34*(6), 56-70.
 
