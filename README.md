@@ -68,6 +68,8 @@ Saeed, A. T. (2017). Impact of mother culture on the process of translating cult
 
 Shangzhen, L. (2021). An Analysis of In-text Thick Translation Strategies in the English Translation of The Three-body Problem[J]. *Frontiers in Educational Research*, *4*(6).
 
+Su, K. (2021). Translation of metaphorical idioms: A case study of two English versions of Hongloumeng[J]. *Babel*, *67*(3), 332-354.
+
 Toury, G. (1995). *Descriptive translation studies and beyond* (Vol. 4)[M]. Amsterdam: J. Benjamins.
 
 Wu, Y. (2020). Globalization, Science Fiction and the China Story: Translation, Dissemination and Reception of Liu Cixin’s Works across the Globe[J]. *Critical Arts*, *34*(6), 56-70.
