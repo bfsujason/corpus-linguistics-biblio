@@ -56,9 +56,9 @@ Gaffric, G., & Peyton, W. (2019). Liu Cixin's Three-Body Trilogy and the Status 
 
 Glucksberg, S., & McGlone, M. S. (2001). *Understanding figurative language: From metaphor to idioms* (No. 36)[M]. Oxford University Press on Demand.
 
-Hang, Y. U. (2020). An Analysis of the Reconstruction of Chinese American Identity in The Paper Menagerie[J]. *Journal of Literature and Art Studies*, *10*(9), 790-795.
-
 Haagsma, H., Bos, J., & Nissim, M. (2020, May). Magpie: A large corpus of potentially idiomatic expressions[J]. In *Proceedings of The 12th Language Resources and Evaluation Conference* (pp. 279-287).
+
+Hang, Y. U. (2020). An Analysis of the Reconstruction of Chinese American Identity in The Paper Menagerie[J]. *Journal of Literature and Art Studies*, *10*(9), 790-795.
 
 Liu, K. (2019). Ken Liu and Nick Admussen: the full conversation.
 
