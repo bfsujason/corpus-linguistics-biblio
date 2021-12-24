@@ -12,6 +12,8 @@ Caple, H., Huan, C., & Bednarek, M. (2020). *Multimodal News Analysis across Cul
 
 Curry, N., & Pérez-Paredes, P. (2021). Stance nouns in COVID-19 related blog posts: A contrastive analysis of blog posts published in The Conversation in Spain and the UK[J]. *International Journal of Corpus Linguistics*, *26*(4), 469-497.
 
+Driscoll, J. P. (2021). *The Devil and Dr. Fauci: The Many Faces of Bureaucratic Evil*[M]. Washington: Academica Press.
+
 Dong, J., Buckingham, L., & Wu, H. (2021). A discourse dynamics exploration of attitudinal responses towards COVID-19 in academia and media[J]. *International Journal of Corpus Linguistics*, *26*(4), 532-556.
 
 Fellow, A.-R. (2009). *American Media History*[M]. Wadsworth, Cengage Learning.
@@ -21,6 +23,8 @@ Flowerdew, J., & Richardson, J. E. (Eds.). (2017). *The Routledge handbook of cr
 Jutel, O. (2016). The liberal field of journalism and the political–The New York Times, Fox News and the Tea Party[J]. *Journalism*, *17*(8), 1129-1145.
 
 Kress, G., & Van Leeuwen, T. (2020). *Reading images: The grammar of visual design*[M]. Routledge.
+
+Márquez, F., et al. (2021). *Exploring discourse and ideology through corpora*[M]. Lausanne, Switzerland: Peter Lang Verlag
 
 McEnery, A., & Baker, P. (Eds.). (2015). *Corpora and discourse studies: Integrating discourse and corpora*[M]. Springer.
 
@@ -62,11 +66,13 @@ Haagsma, H., Bos, J., & Nissim, M. (2020, May). Magpie: A large corpus of potent
 
 Hang, Y. U. (2020). An Analysis of the Reconstruction of Chinese American Identity in The Paper Menagerie[J]. *Journal of Literature and Art Studies*, *10*(9), 790-795.
 
+Kim, M., Munday, J., Wang, Z., & Wang, P. (Eds.). (2021). *Systemic Functional Linguistics and Translation Studies*[M]. Bloomsbury Publishing.
+
 Liu, K. (2019). Ken Liu and Nick Admussen: the full conversation.
 
 Pellatt, V. (Ed.). (2014). *Text, extratext, metatext and paratext in translation*[M]. Cambridge Scholars Publishing.
 
-~~Lavid-López, J., Maíz-Arévalo, C., & Zamorano-Mansilla, J. R. (Eds.). (2021). *Corpora in Translation and Contrastive Research in the Digital Age: Recent advances and exploration*[M]. Guildford: University of Surrey.~~
+Lavid-López, J., Maíz-Arévalo, C., & Zamorano-Mansilla, J. R. (Eds.). (2021). *Corpora in Translation and Contrastive Research in the Digital Age: Recent advances and exploration*[M]. Guildford: University of Surrey.
 
 Saeed, A. T. (2017). Impact of mother culture on the process of translating culture-specific idioms[J]. *Babel*, *63*(4), 486-505.
 
